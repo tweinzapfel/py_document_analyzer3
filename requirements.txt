@@ -1,0 +1,6 @@
+streamlit
+openai>=1.0.0
+pymupdf
+python-docx
+pandas
+xlsxwriter
